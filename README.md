@@ -9,9 +9,8 @@
 
   <br>
 
-<p align=center>
-  <span>Hunt down social media accounts by username across <a href="https://github.com/bhikandeshmukh/sherlock/blob/main/sites.md">social networks</a></span>
-  </p><br>
+######<p align=center>Hunt down social media accounts by username across <a href="https://github.com/bhikandeshmukh/sherlock/blob/main/sites.md">social networks</a></p>
+<br>
 
 
 <p align=center>
